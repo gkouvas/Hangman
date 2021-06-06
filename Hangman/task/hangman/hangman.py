@@ -47,7 +47,6 @@ while play == "play":
                 lives -= 1
         else:
             print("Please enter a lowercase English letter")
-
     # printing the result
     else:
         if play == "play" and lives > 0:
